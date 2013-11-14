@@ -1,3 +1,3 @@
 # Interaction
 
-Interaction-style "class" for Node.js
+An interaction-style "class" for Node.js
